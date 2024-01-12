@@ -1,0 +1,20 @@
+/* style for classes and ID to index.html, differentiating tiers of net worth for our clients */
+
+.basic {
+    background-color:rgba(245, 163, 163, 1) ;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.plus {
+    font-size: 24px;
+}
+
+
+#diamond {
+    color: rgba(0, 11, 224, 1);
+    font-size: 36px;
+}
+
+#platinum {
+    background-color: rgba(30, 224, 0, 1);
+}
